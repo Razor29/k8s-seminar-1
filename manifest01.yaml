@@ -4,7 +4,7 @@ metadata:
  name: nginx  
 spec:
  containers: 
-  - name: bear
+ - name: bear
    image: supergiantkir/animals:bear
    ports: 
    - containerPort: 80
